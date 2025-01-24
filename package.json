@@ -1,0 +1,10 @@
+{
+  "name": "trabalho-final-si",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "criptografia.js",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
+
